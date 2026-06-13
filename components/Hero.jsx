@@ -53,7 +53,7 @@ const HeroSection = () => {
 
           <Link href={"/dashboard"}>
             <Button size={"lg"} className={"px-8"} variant={"outline"}>
-              Watch Demo
+              Watch Demo Here
             </Button>
           </Link>
         </div>

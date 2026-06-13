@@ -53,9 +53,7 @@ const Header = () => {
             </>
           ) : (
             <SignInButton forceRedirectUrl="/dashboard">
-              <Button className="bg-[#9B27AF] hover:bg-[#842195]">
-                Login
-              </Button>
+              <Button className="bg-[#9B27AF] hover:bg-[#842195]">Login</Button>
             </SignInButton>
           )}
         </div>
